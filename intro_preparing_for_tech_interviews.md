@@ -5,4 +5,5 @@ You've spent your time at Flatiron learning a ton of different stuff. Unfortunat
 By the end of this section, you should have:
 
 * Completed the Data Structures and Algorithm Course
+* Practiced Technical Interviewing
 * Signed up for a Mock Technical Interview
