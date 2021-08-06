@@ -4,6 +4,8 @@ Welcome to our Data Structures and Algorithms (DS&A) course! Preparing for techn
 
 This course is structured so that you can work on new problems daily and level up your skills over time.
 
+**Note**: This course covers quite a lot of material! It's recommended that you work on this gradually and set aside some time each day to continue working on this course. It will benefit you to work on this material with other Flatiron alumni, so try and connect on Slack with some folks to work on this together.
+
 All of the course material is available on GitHub:
 
 [Data Structures & Algorithms](https://github.com/learn-co-curriculum/postwork-data-structures-and-algorithms/)
