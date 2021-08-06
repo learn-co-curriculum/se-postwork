@@ -9,9 +9,7 @@ Some of the positive feedback we’ve received from employers that have hired Fl
 ## Refactor
 Now that you're a React expert, it's a good idea to go back to your projects that use React to refactor and clean up your code. You may want to also add a Rails backend where appropriate. That way you can be sure your portfolio contains multiple projects that are a good indicator of what you can do. You want all the projects in your portfolio to be shining examples of your programming skills!
 
-Refactoring your React code will not only help you review what you’ve learned, but allows you to show that you are thoughtful about structure and readability. One specific challenge for React: components. Components are flexible enough that we could theoretically build our whole app in a single one. It is also possible to go to the opposite extreme and have tons of small components. Refactoring provides an opportunity to find a happy medium: configuring components so they follow logical and readable design patterns. The [official React documentation][thinking in react] provides a guide on thinking in React that might help in identifying what to refactor in your project. 
-
-[thinking in react]: https://reactjs.org/docs/thinking-in-react.html
+Refactoring your React code will not only help you review what you’ve learned, but allows you to show that you are thoughtful about structure and readability. One specific challenge for React: components. Components are flexible enough that we could theoretically build our whole app in a single one. It is also possible to go to the opposite extreme and have tons of small components. Refactoring provides an opportunity to find a happy medium: configuring components so they follow logical and readable design patterns. The <a href="https://reactjs.org/docs/thinking-in-react.html" target="_blank">official React documentation</a> provides a guide on thinking in React that might help in identifying what to refactor in your project. 
 
 For Rails, definitely review your MVC structure when refactoring. Students often load a lot of code into their controllers. However, the controller is really just meant to be an interface between your models and views. It should just be handling the ‘business logic’ of your app - based on the request, a controller will get data from a model and use it to render a view. If there is data-related logic present, it should probably be in a model.
 
@@ -35,42 +33,28 @@ You should have communication between your backend and frontend for CRUD functio
 ## For your CSS:
 
 Establish a consistent theme across your app. CSS is often the last thing students work on during their projects, but it can also make your app more visually appealing. Non-technical visitors to the site may not grasp how complicated the code behind it is, but they can definitely recognize if it is well-designed.
-Make your app responsive: learn how to use [media queries][media queries] to design your project so that it looks good regardless of whichever device it is being viewed on.
-
-[media queries]: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
+Make your app responsive: learn how to use <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries" target="_blank">media queries</a> to design your project so that it looks good regardless of whichever device it is being viewed on.
 
 ## Make Your App Accessible
 Another vital addition you should consider for your React project is accessibility. The internet is an essential resource for millions of people, but many websites lack accessibility options, making them difficult or impossible to use for many people.
 
-For more information on web accessibility and why it is important, check out the [World Wide Web Consortium’s Introduction to Web Accessibility][accessibility]. For specific ideas on how you can make your project more accessible, read through the checklist to help guide you.
-
-[accessibility]: https://www.edx.org/course/web-accessibility-introduction
+For more information on web accessibility and why it is important, check out the <a href="https://www.edx.org/course/web-accessibility-introduction" target="_blank">World Wide Web Consortium’s Introduction to Web Accessibility</a>. For specific ideas on how you can make your project more accessible, read through the checklist to help guide you.
 
 ## Turn Your App into a Progressive Web App
 Progressive Web Apps follow specific standards for making a web app function in a similar way to applications built natively on a particular operating system. Among other things, this includes building an application that is functional even if a user is offline or on a poor internet connection.
 
-If you used Create React App to start your project, some PWA functionality is already provided and ready to implement. To learn more about how to convert your app into a Progressive Web App, check out [this guide][create-react-app pwa].
+If you used Create React App to start your project, some PWA functionality is already provided and ready to implement. To learn more about how to convert your app into a Progressive Web App, check out <a href="https://create-react-app.dev/docs/making-a-progressive-web-app/" target="_blank">this guide</a>.
 
-[create-react-app pwa]: https://create-react-app.dev/docs/making-a-progressive-web-app/
-
-Google also provides a tool that can help you implement your PWA called [Lighthouse][lighthouse]. Lighthouse audits your project for performance and accessibility.
-
-[lighthouse]: https://developers.google.com/web/ilt/pwa/lighthouse-pwa-analysis-tool
+Google also provides a tool that can help you implement your PWA called <a href="https://developers.google.com/web/ilt/pwa/lighthouse-pwa-analysis-tool" target="_blank">Lighthouse</a>. Lighthouse audits your project for performance and accessibility.
 
 ## Deploy Your Project
 If you haven’t deployed your React project, make sure to do so! As your final project, it is expected to be the most developed project you completed during the software engineering course. Deploying allows you to show off what you’ve built.
 
-If you have your React and Rails projects in a single repository, check out our [guide for deploying your entire application to Heroku][heroku react rails].
+If you have your React and Rails projects in a single repository, check out our <a href="https://github.com/learn-co-curriculum/phase-4-deploying-rails-react-to-heroku" target="_blank">guide for deploying your entire application to Heroku</a>.
 
-[heroku react rails]: https://github.com/learn-co-curriculum/phase-4-deploying-rails-react-to-heroku
+If you have separate repositories for your React and Rails applications, we recommend deploying your frontend to Netlify, but you are free to choose what you think is best. Check out <a href="https://www.netlify.com/with/react/" target="_blank">this tutorial</a> for how to do it. 
 
-If you have separate repositories for your React and Rails applications, we recommend deploying your frontend to Netlify, but you are free to choose what you think is best. Check out [this tutorial][netlify] for how to do it. 
-
-[netlify]: https://www.netlify.com/with/react/
-
-For the Rails backend, as with all Rails apps, we recommend [Heroku][heroku]. Heroku has a free hosting tier that many students have utilized over the years. They also provide a detailed tutorial on how to get your Rails app deployed.
-
-[heroku]: https://devcenter.heroku.com/articles/getting-started-with-rails6
+For the Rails backend, as with all Rails apps, we recommend <a href="https://devcenter.heroku.com/articles/getting-started-with-rails6" target="_blank">Heroku</a>. Heroku has a free hosting tier that many students have utilized over the years. They also provide a detailed tutorial on how to get your Rails app deployed.
 
 Recommended: Once you’ve deployed your project, make sure to do some quality assurance testing:
 
@@ -89,7 +73,7 @@ READMEs should include  wireframes, graphs, gifs, videos, or screenshots showing
 
 Show you can code: make sure you have a link to a live site or if your application is not yet live or is buggy, make a video demo showcasing what your project does. (See the next section for more on recording a video demo.) If you wrote a blog post about your project, link it here.
 
-Check out [this guide](link here) to writing a kick-ass README 
+Check out <a href="link here" target="_blank">this guide</a> to writing a kick-ass README 
 
 Extra tip: While you can’t embed a YouTube link (i.e. a project demo video) to a README in GitHub, you can include a thumbnail using the code at the very bottom of this article CODE NOT PROVIDED. Adding a YouTube thumbnail isn’t required, but looks snappy. 
 
