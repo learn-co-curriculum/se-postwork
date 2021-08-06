@@ -1,5 +1,7 @@
 # Practicing Technical Interviewing
 
+Once you've worked through some of the technical algorithm problems, it's time to practice your interview communication skills.
+
 The number 1 thing to remember about tech interviewing is that it takes practice! No one is going to nail it on the first try, so it's good to get as much practice in as possible!
 
 We're sharing below the step-by-step process that fabulous coach Ben Lappen gives his students to help them prepare for mock tech interviews.
