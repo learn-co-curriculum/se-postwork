@@ -1,4 +1,5 @@
-## Introduction
+## Upgrade your Projects
+
 Now that you have built 5 portfolio projects, it's time to go back and take them to the next level, as well as familiarize yourself with some of the projects you might not have worked with in a while. You should know the ins and outs of the projects you are using to represent your abilities. You can’t always prepare for the specific questions you’ll get on an interview, but being comfortable showcasing what you’ve already worked on is a big plus. 
 
 
