@@ -25,13 +25,13 @@ Prepare for coding challenges & white boarding interviews
 ## Level up your Tech Skills 🧰
 A curated list of resources to explore
 
-*[Leveling up your Tech Skills](level_up_tech_skills/intro_level_up_tech_skills.md)
-*[Git Resources](level_up_tech_skills/git_resources.md)
-*[JavaScript Resources](level_up_tech_skills/javascript_resources.md)
-*[React Resources](level_up_tech_skills/react_resources.md)
-*[Ruby and Rails Resources](level_up_tech_skills/ruby_and_rails_resources.md)
-*[SQL Resources](level_up_tech_skills/sql_resources.md)
-*[CSS Resources](level_up_tech_skills/css_resources.md)
+* [Leveling up your Tech Skills](level_up_tech_skills/intro_level_up_tech_skills.md)
+* [Git Resources](level_up_tech_skills/git_resources.md)
+* [JavaScript Resources](level_up_tech_skills/javascript_resources.md)
+* [React Resources](level_up_tech_skills/react_resources.md)
+* [Ruby and Rails Resources](level_up_tech_skills/ruby_and_rails_resources.md)
+* [SQL Resources](level_up_tech_skills/sql_resources.md)
+* [CSS Resources](level_up_tech_skills/css_resources.md)
 
 ## Discover - Career Advice 🥽
 Specific Career Advice for Software Engineers
