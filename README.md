@@ -36,4 +36,4 @@ A curated list of resources to explore
 ## Discover - Career Advice 🥽
 Specific Career Advice for Software Engineers
 
-* [Software Engineering Career Advice](career_advice/intro_career_advice)
+* [Software Engineering Career Advice](career_advice/intro_career_advice.md)
