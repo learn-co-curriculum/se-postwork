@@ -9,8 +9,8 @@ Create your project portfolio to stand out in your job search
 
 * [Building your Portfolio](build_a_five_star_portfolio/intro_build_portfolio.md)
 * [Upgrade your Projects](build_a_five_star_portfolio/upgrade_projects.md)
-* [Upgrade your Capstone Projects](build_a_five_star_portfolio/upgrade_capstone.md)
-* [Upgrade 2 more projects to be Portfolio Ready](build_a_five_star_portfolio/upgrade_capstone.md)
+* [Upgrade your Capstone Projects](build_a_five_star_portfolio/upgrade_capstone_project.md)
+* [Upgrade 2 more projects to be Portfolio Ready](build_a_five_star_portfolio/upgrade_2_more_projects.md)
 * [Build a Personal Portfolio Site](build_a_five_star_portfolio/build_personal_portfolio_site.md)
 
 ## Prepare for Tech Interviews 🎯
