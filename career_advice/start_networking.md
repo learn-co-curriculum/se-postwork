@@ -1,4 +1,4 @@
-# Networking for Developers (start networking, craft your "tell me about yourself")
+# Networking for Developers - Craft your "Tell Me About Yourself"
 
 To Network effectively with other software engineers, you need to communicate in a confident & concise way, who you are & what your experience, skills and interests are. 
 

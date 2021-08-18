@@ -30,7 +30,7 @@ These professional societies host conferences, set professional and educational 
 
 [Hashnode](https://hashnode.com/) - Everything you need to start blogging as a developer!
 
-[Indie Hackers](https://www.indiehackers.com/) - An Indie hacker is "a person building an online project that can generate revenue." This global community discusses their ideas, resources, strategies, and revenue stats from their projects.- Podcasts for indie hackers Here
+[Indie Hackers](https://www.indiehackers.com/) - An Indie hacker is "a person building an online project that can generate revenue." This global community discusses their ideas, resources, strategies, and revenue stats from their projects. 
 
 [Out in Tech](https://outintech.com/) - A community of LGBTQIA+ people in tech helping eachother learn, network, and more!
 
