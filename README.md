@@ -37,3 +37,4 @@ A curated list of resources to explore
 Specific Career Advice for Software Engineers
 
 * [Software Engineering Career Advice](career_advice/intro_career_advice.md)
+* [LinkedIn & Resume - Update Your Headline and Project Examples](/career_advice/linkedin_and_resume.md)
