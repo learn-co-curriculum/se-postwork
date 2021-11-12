@@ -1,8 +1,11 @@
 # Software Engineers to Follow
+
 **Follow people in the areas and communities you want to be a part of!**
 
-### Developers to follow on Twitter
-These developers have a strong online presence in the industry and provide tips, strategies, ideas and how to videos on Software Engineering.
+## Developers to follow on Twitter
+
+These developers have a strong online presence in the industry and provide tips,
+strategies, ideas and how to videos on Software Engineering.
 
 [Ali Spittel](https://twitter.com/ASpittel)
 [April Speight](https://twitter.com/vogueandcode)
@@ -22,5 +25,5 @@ These developers have a strong online presence in the industry and provide tips,
 [Veni Kunche](https://twitter.com/venikunche)
 [Women Who Code](https://twitter.com/WomenWhoCode)
 
-### To-Do: 
+## To-Do: 
 Find 5 developers from this list to follow.

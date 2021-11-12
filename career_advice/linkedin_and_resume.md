@@ -1,9 +1,11 @@
 # LinkedIn & Resume - Update your Headline and Project Examples
 
-Your LinkedIn and Resume are often the first glimpse recruiters and hiring managers get of you, so it's important to polish these up! Below are some LinkedIn profiles and Resume examples from some Flatiron Alumni; check them out and then update your own resume and LinkedIn! 
+Your LinkedIn and Resume are often the first glimpse recruiters and hiring
+managers get of you, so it's important to polish these up! Below are some
+LinkedIn profiles and Resume examples from some Flatiron Alumni; check them out
+and then update your own resume and LinkedIn!
 
-
-### Example LinkedIn Profiles 
+## Example LinkedIn Profiles
 
 [Michael Amundsen](https://www.linkedin.com/in/cordavi/)
 
@@ -16,7 +18,7 @@ Your LinkedIn and Resume are often the first glimpse recruiters and hiring manag
 *
 *
 
-### Example Resumes
+## Example Resumes
 
 [Siobhan Mahoney](https://docs.google.com/document/d/1x70srn52bsOWWyIGCVrIIORsRGvwRXBTDxd-PEixEpA/edit)
 
@@ -34,11 +36,13 @@ Your LinkedIn and Resume are often the first glimpse recruiters and hiring manag
 *
 
 ## Your turn!
-After you review LinkedIn & Resume's profiles, complete the follow two key steps to jump start your job opportunities:
-- [ ] Update your LinkedIn & Resume profile
-- [ ] Polish your project summary for each of your projects using the format below
+After you review LinkedIn & Resume's profiles, complete the follow two key steps
+to jump start your job opportunities:
 
-### Project Title
+* [ ] Update your LinkedIn & Resume profile
+* [ ] Polish your project summary for each of your projects using the format below
+
+## Project Title
 
 **GitHub Link** 					- *github.com/project-link*
 
