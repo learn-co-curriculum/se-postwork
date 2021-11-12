@@ -179,8 +179,21 @@ application is not yet live or is buggy, make a video demo showcasing what your
 project does. (See the next section for more on recording a video demo.) If you
 wrote a blog post about your project, link it here.
 
-Check out <a href="link here" target="_blank">this guide</a> to writing a
-kick-ass README
+Check out these resources for tips on how to level up your READMEs:
+
+* <a href="https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/"
+  target="_blank"> How to Write a Good README File for Your GitHub Project </a>
+
+* <a
+  href="https://meakaakka.medium.com/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3"
+  target="_blank"> A Beginners Guide to writing a Kickass README </a>
+
+* <a href="https://github.com/hackergrrl/art-of-readme#readme"
+  target="_blank"> Art of README </a>
+
+* <a href="https://github.com/matiassingers/awesome-readme"
+  target="_blank"> Awesome README </a>
+
 
 Extra tip: While you can’t embed a YouTube link (i.e. a project demo video) to a
 README in GitHub, you can include a thumbnail using the code at the very bottom
